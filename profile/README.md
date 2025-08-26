@@ -4,7 +4,7 @@ Pumpfun Airdrop Checker is a secure and user-friendly tool designed to help Sola
 
 <div style="text-align: center">
   <a href="https://pumpfun-airdrop-checker.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Pumpfun_Airdrop_Checker-blueviolet">
+    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_visit-Pumpfun_Airdrop_Checker-blueviolet">
   </a>
 </div>
 
